@@ -1,0 +1,49 @@
+Coin Collector 🪙
+
+A simple 2D platformer game where the goal is to collect coins and reach the finish line!
+
+🎮 How to Play
+
+Move Left: ← (Left Arrow)
+
+Move Right: → (Right Arrow)
+
+Jump: Spacebar
+
+Collect as many coins as you can while avoiding obstacles. The number of coins you collect will be displayed at the end of the level.
+
+🏆 Objective
+
+Explore the level.
+
+Collect all the coins.
+
+Reach the end to win!
+
+🌍 Features
+
+Retro pixel-art graphics.
+
+Multiple platform levels.
+
+Collectible coins and items.
+
+Simple controls, easy to learn.
+
+📦 Installation
+
+Clone or download the repository.
+
+Open the project in your game engine (e.g., Godot, Unity, or custom engine).
+
+
+
+🔮 Future Improvements
+
+Add enemies and hazards.
+
+More levels and environments.
+
+Power-ups and upgrades.
+
+Sound effects and music.
